@@ -1,7 +1,8 @@
 # ChatGptAPI
 
+by
 ```
-by https://enersys.co.th
+https://enersys.co.th
 ```
 
 ChatGpt API golang and python
