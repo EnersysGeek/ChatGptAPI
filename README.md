@@ -15,7 +15,7 @@ Python
 import openai
 
 # Set your API Key
-openai.api_key = "xxxx-5jTWE1lbdP0eT3BlbkFJiD7Y9UlKFA-y4xAmUcsps-xxxx" << YourKey นะ
+openai.api_key = "xxxx-5jTWE1lbdP0eT3BlbkFJiD7Y9UlKFA-y4xAmUcsps-xxxx" # YourKey นะ
 
 # Send a request to the ChatGPT API
 response = openai.ChatCompletion.create(
