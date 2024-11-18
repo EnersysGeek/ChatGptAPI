@@ -1,4 +1,9 @@
 # ChatGptAPI
+
+```
+by https://enersys.co.th
+```
+
 ChatGpt API golang and python
 
 pip install openai==0.27.8
